@@ -1,3 +1,11 @@
+# Data Set Link
+** Link - ** https://drive.google.com/file/d/1yNMKT2-DoLCZMLlrAdqy6iNWQVCYq1OS/
+
+
+
+
+
+
 # Some of the used resources
 * https://towardsdatascience.com/how-i-used-machine-learning-to-classify-emails-and-turn-them-into-insights-efed37c1e66
 * https://towardsdatascience.com/how-i-used-machine-learning-to-classify-emails-and-turn-them-into-insights-part-2-6a8f26477c86
